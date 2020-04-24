@@ -1,0 +1,6 @@
+2020/04/23-21:35:58.377 2824 Reusing MANIFEST /home/zaratystra/snap/chromium/1105/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/04/23-21:35:58.377 2824 Recovering log #9
+2020/04/23-21:35:58.381 2824 Reusing old log /home/zaratystra/snap/chromium/1105/.config/chromium/Default/Sync Data/LevelDB/000009.log 
+2020/04/23-21:36:00.361 28a1 Level-0 table #13: started
+2020/04/23-21:36:00.370 28a1 Level-0 table #13: 132092 bytes OK
+2020/04/23-21:36:00.371 28a1 Delete type=0 #9

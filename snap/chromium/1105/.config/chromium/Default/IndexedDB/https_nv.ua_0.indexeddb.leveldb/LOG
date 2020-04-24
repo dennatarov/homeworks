@@ -1,0 +1,15 @@
+2020/04/24-13:45:20.593 e91 Reusing MANIFEST /home/zaratystra/snap/chromium/1105/.config/chromium/Default/IndexedDB/https_nv.ua_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/24-13:45:20.593 e91 Recovering log #11
+2020/04/24-13:45:20.593 e91 Reusing old log /home/zaratystra/snap/chromium/1105/.config/chromium/Default/IndexedDB/https_nv.ua_0.indexeddb.leveldb/000011.log 
+2020/04/24-13:52:16.703 18ce Level-0 table #16: started
+2020/04/24-13:52:16.707 18ce Level-0 table #16: 8615 bytes OK
+2020/04/24-13:52:16.709 18ce Delete type=0 #11
+2020/04/24-13:52:16.709 18ce Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/04/24-13:52:16.709 18ce Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 692 : 1
+2020/04/24-13:52:16.709 18ce Compacting 1@1 + 1@2 files
+2020/04/24-13:52:16.711 18ce Generated table #17@1: 89 keys, 2203 bytes
+2020/04/24-13:52:16.711 18ce Compacted 1@1 + 1@2 files => 2203 bytes
+2020/04/24-13:52:16.713 18ce compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/04/24-13:52:16.713 18ce Delete type=2 #13
+2020/04/24-13:52:16.713 18ce Delete type=2 #16
+2020/04/24-13:52:16.714 18ce Manual compaction at level-1 from '\x00\x01\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 692 : 1 .. (end); will stop at (end)

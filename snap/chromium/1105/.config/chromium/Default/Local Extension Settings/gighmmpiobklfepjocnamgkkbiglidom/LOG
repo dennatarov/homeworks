@@ -1,0 +1,52 @@
+2020/04/24-13:06:49.694 94e Reusing MANIFEST /home/zaratystra/snap/chromium/1105/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2020/04/24-13:06:49.695 94e Recovering log #47
+2020/04/24-13:06:49.695 94e Reusing old log /home/zaratystra/snap/chromium/1105/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000047.log 
+2020/04/24-13:07:51.278 bc0 Level-0 table #53: started
+2020/04/24-13:07:51.371 bc0 Level-0 table #53: 5602052 bytes OK
+2020/04/24-13:07:51.372 bc0 Delete type=0 #47
+2020/04/24-13:09:01.422 bc0 Level-0 table #55: started
+2020/04/24-13:09:01.506 bc0 Level-0 table #55: 5600526 bytes OK
+2020/04/24-13:09:01.508 bc0 Delete type=0 #52
+2020/04/24-14:07:51.120 bc0 Level-0 table #57: started
+2020/04/24-14:07:51.202 bc0 Level-0 table #57: 5601256 bytes OK
+2020/04/24-14:07:51.205 bc0 Delete type=0 #54
+2020/04/24-14:16:37.189 bc0 Level-0 table #59: started
+2020/04/24-14:16:37.282 bc0 Level-0 table #59: 5600504 bytes OK
+2020/04/24-14:16:37.284 bc0 Delete type=0 #56
+2020/04/24-14:16:37.287 bc0 Compacting 4@0 + 2@1 files
+2020/04/24-14:16:37.433 bc0 Generated table #60@0: 1 keys, 5600311 bytes
+2020/04/24-14:16:37.435 bc0 Generated table #61@0: 4 keys, 347 bytes
+2020/04/24-14:16:37.435 bc0 Compacted 4@0 + 2@1 files => 5600658 bytes
+2020/04/24-14:16:37.436 bc0 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/04/24-14:16:37.436 bc0 Delete type=2 #59
+2020/04/24-14:16:37.436 bc0 Delete type=2 #53
+2020/04/24-14:16:37.436 bc0 Delete type=2 #57
+2020/04/24-14:16:37.436 bc0 Delete type=2 #50
+2020/04/24-14:16:37.436 bc0 Delete type=2 #55
+2020/04/24-14:16:37.436 bc0 Delete type=2 #49
+2020/04/24-15:07:51.197 bc0 Level-0 table #63: started
+2020/04/24-15:07:51.318 bc0 Level-0 table #63: 5600466 bytes OK
+2020/04/24-15:07:51.331 bc0 Delete type=0 #58
+2020/04/24-16:05:34.354 bc0 Level-0 table #65: started
+2020/04/24-16:05:34.438 bc0 Level-0 table #65: 5600602 bytes OK
+2020/04/24-16:05:34.441 bc0 Delete type=0 #62
+2020/04/24-16:07:52.725 bc0 Level-0 table #67: started
+2020/04/24-16:07:52.838 bc0 Level-0 table #67: 5600413 bytes OK
+2020/04/24-16:07:52.840 bc0 Delete type=0 #64
+2020/04/24-16:09:55.803 bc0 Level-0 table #69: started
+2020/04/24-16:09:55.881 bc0 Level-0 table #69: 5600412 bytes OK
+2020/04/24-16:09:55.883 bc0 Delete type=0 #66
+2020/04/24-16:09:55.904 bc0 Compacting 4@0 + 2@1 files
+2020/04/24-16:09:56.053 bc0 Generated table #70@0: 1 keys, 5600412 bytes
+2020/04/24-16:09:56.060 bc0 Generated table #71@0: 4 keys, 347 bytes
+2020/04/24-16:09:56.060 bc0 Compacted 4@0 + 2@1 files => 5600759 bytes
+2020/04/24-16:09:56.061 bc0 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/04/24-16:09:56.067 bc0 Delete type=2 #67
+2020/04/24-16:09:56.067 bc0 Delete type=2 #63
+2020/04/24-16:09:56.067 bc0 Delete type=2 #69
+2020/04/24-16:09:56.067 bc0 Delete type=2 #65
+2020/04/24-16:09:56.067 bc0 Delete type=2 #61
+2020/04/24-16:09:56.067 bc0 Delete type=2 #60
+2020/04/24-17:07:52.263 bc0 Level-0 table #73: started
+2020/04/24-17:07:52.396 bc0 Level-0 table #73: 5600511 bytes OK
+2020/04/24-17:07:52.420 bc0 Delete type=0 #68

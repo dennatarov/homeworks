@@ -1,0 +1,27 @@
+2020/04/24-13:06:47.141 94e Reusing MANIFEST /home/zaratystra/snap/chromium/1105/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2020/04/24-13:06:47.142 94e Recovering log #10
+2020/04/24-13:06:47.142 94e Reusing old log /home/zaratystra/snap/chromium/1105/.config/chromium/Default/Local Storage/leveldb/000010.log 
+2020/04/24-13:27:57.349 e79 Level-0 table #14: started
+2020/04/24-13:27:57.354 e79 Level-0 table #14: 21738 bytes OK
+2020/04/24-13:27:57.356 e79 Delete type=0 #10
+2020/04/24-13:55:59.380 e79 Level-0 table #16: started
+2020/04/24-13:55:59.384 e79 Level-0 table #16: 26217 bytes OK
+2020/04/24-13:55:59.386 e79 Delete type=0 #13
+2020/04/24-14:06:56.210 e79 Level-0 table #18: started
+2020/04/24-14:06:56.215 e79 Level-0 table #18: 25713 bytes OK
+2020/04/24-14:06:56.216 e79 Delete type=0 #15
+2020/04/24-14:06:56.217 e79 Compacting 4@0 + 1@1 files
+2020/04/24-14:06:56.221 e79 Generated table #19@0: 252 keys, 14910 bytes
+2020/04/24-14:06:56.221 e79 Compacted 4@0 + 1@1 files => 14910 bytes
+2020/04/24-14:06:56.223 e79 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/04/24-14:06:56.223 e79 Delete type=2 #8
+2020/04/24-14:06:56.223 e79 Delete type=2 #18
+2020/04/24-14:06:56.223 e79 Delete type=2 #11
+2020/04/24-14:06:56.223 e79 Delete type=2 #14
+2020/04/24-14:06:56.223 e79 Delete type=2 #16
+2020/04/24-15:02:14.918 e79 Level-0 table #21: started
+2020/04/24-15:02:14.920 e79 Level-0 table #21: 20297 bytes OK
+2020/04/24-15:02:14.922 e79 Delete type=0 #17
+2020/04/24-16:13:24.994 e79 Level-0 table #23: started
+2020/04/24-16:13:24.996 e79 Level-0 table #23: 20832 bytes OK
+2020/04/24-16:13:24.998 e79 Delete type=0 #20

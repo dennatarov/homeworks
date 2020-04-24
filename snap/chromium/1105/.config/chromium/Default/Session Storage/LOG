@@ -1,0 +1,21 @@
+2020/04/24-13:06:48.219 950 Reusing MANIFEST /home/zaratystra/snap/chromium/1105/.config/chromium/Default/Session Storage/MANIFEST-000001
+2020/04/24-13:06:48.219 950 Recovering log #20
+2020/04/24-13:06:48.220 950 Reusing old log /home/zaratystra/snap/chromium/1105/.config/chromium/Default/Session Storage/000020.log 
+2020/04/24-13:27:52.325 e79 Level-0 table #24: started
+2020/04/24-13:27:52.329 e79 Level-0 table #24: 20373 bytes OK
+2020/04/24-13:27:52.331 e79 Delete type=0 #20
+2020/04/24-13:54:13.795 e79 Level-0 table #26: started
+2020/04/24-13:54:13.798 e79 Level-0 table #26: 19120 bytes OK
+2020/04/24-13:54:13.799 e79 Delete type=0 #23
+2020/04/24-13:54:13.800 e79 Compacting 4@0 + 1@1 files
+2020/04/24-13:54:13.805 e79 Generated table #27@0: 440 keys, 35432 bytes
+2020/04/24-13:54:13.805 e79 Compacted 4@0 + 1@1 files => 35432 bytes
+2020/04/24-13:54:13.807 e79 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/04/24-13:54:13.807 e79 Delete type=2 #24
+2020/04/24-13:54:13.807 e79 Delete type=2 #21
+2020/04/24-13:54:13.807 e79 Delete type=2 #17
+2020/04/24-13:54:13.807 e79 Delete type=2 #26
+2020/04/24-13:54:13.807 e79 Delete type=2 #19
+2020/04/24-14:50:15.256 e79 Level-0 table #29: started
+2020/04/24-14:50:15.273 e79 Level-0 table #29: 23298 bytes OK
+2020/04/24-14:50:15.274 e79 Delete type=0 #25

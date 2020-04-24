@@ -1,0 +1,62 @@
+[2020.04.24 13:07:30] Launched version: 2000001, install beta: [FALSE], alpha: 0, debug mode: [FALSE], test dc: [FALSE]
+[2020.04.24 13:07:30] Executable dir: /snap/telegram-desktop/1498/bin/, name: telegram-desktop
+[2020.04.24 13:07:30] Initial working dir: /home/zaratystra/
+[2020.04.24 13:07:30] Working dir: /home/zaratystra/snap/telegram-desktop/1498/.local/share/TelegramDesktop/
+[2020.04.24 13:07:30] Command line: telegram-desktop --
+[2020.04.24 13:07:30] Executable path before check: /snap/telegram-desktop/1498/bin/telegram-desktop
+[2020.04.24 13:07:30] Logs started
+[2020.04.24 13:07:30] Launcher filename: telegram-desktop_telegram-desktop.desktop
+[2020.04.24 13:07:31] Connecting local socket to /run/user/1000/snap.telegram-desktop/7cf5296b26b5e669f037d0e13d5faecd...
+[2020.04.24 13:07:31] This is the only instance of Telegram, starting server and app...
+[2020.04.24 13:07:31] Moved logging from '/home/zaratystra/snap/telegram-desktop/1498/.local/share/TelegramDesktop/log_start0.txt' to '/home/zaratystra/snap/telegram-desktop/1498/.local/share/TelegramDesktop/log.txt'!
+[2020.04.24 13:07:31] Primary screen DPI: 96
+[2020.04.24 13:07:32] Font: from ':/gui/fonts/DAOpenSansRegular.ttf' loaded 'DAOpenSansRegular'
+[2020.04.24 13:07:32] Font: from ':/gui/fonts/DAOpenSansRegularItalic.ttf' loaded 'DAOpenSansRegularItalic'
+[2020.04.24 13:07:32] Font: from ':/gui/fonts/DAOpenSansBold.ttf' loaded 'DAOpenSansBold'
+[2020.04.24 13:07:32] Font: from ':/gui/fonts/DAOpenSansBoldItalic.ttf' loaded 'DAOpenSansBoldItalic'
+[2020.04.24 13:07:32] Font: from ':/gui/fonts/DAOpenSansSemibold.ttf' loaded 'DAOpenSansSemibold'
+[2020.04.24 13:07:32] Font: from ':/gui/fonts/DAOpenSansSemiboldItalic.ttf' loaded 'DAOpenSansSemiboldItalic'
+[2020.04.24 13:07:32] App Info: reading settings...
+[2020.04.24 13:07:32] App Info: reading encrypted settings...
+[2020.04.24 13:07:32] Lang Info: Loaded cached, keys: 2652
+[2020.04.24 13:07:32] OpenAL Logging Level: (not set)
+[2020.04.24 13:07:32] Audio Playback Devices: Встроенное аудио Аналоговый стерео
+[2020.04.24 13:07:32] Audio Playback Default Device: Встроенное аудио Аналоговый стерео
+[2020.04.24 13:07:32] Audio Capture Devices: Встроенное аудио Аналоговый стерео;Monitor of Встроенное аудио Аналоговый стерео
+[2020.04.24 13:07:32] Audio Capture Default Device: Встроенное аудио Аналоговый стерео
+[2020.04.24 13:07:33] System tray available: [TRUE]
+[2020.04.24 13:07:33] Not using D-Bus global menu.
+[2020.04.24 13:07:33] Using Unity launcher counter.
+[2020.04.24 13:07:33] App Info: reading map...
+[2020.04.24 13:07:33] App Info: reading encrypted map...
+[2020.04.24 13:07:33] App Info: reading encrypted user settings...
+[2020.04.24 13:07:33] App Info: encrypted user settings read.
+[2020.04.24 13:07:33] App Info: reading encrypted mtp data...
+[2020.04.24 13:07:33] MTP Info: read keys, current: 3, to destroy: 0
+[2020.04.24 13:07:33] Map read time: 38
+[2020.04.24 13:07:33] TCP Error: network - Network unreachable
+[2020.04.24 13:07:33] HTTP Error: network error 99 - Network unreachable
+[2020.04.24 13:07:33] Export Info: Destroy top bar by controller removal.
+[2020.04.24 13:07:33] Using SNI tray icon.
+[2020.04.24 13:07:34] TCP Error: network - Network unreachable
+[2020.04.24 13:07:34] HTTP Error: network error 99 - Network unreachable
+[2020.04.24 13:07:34] Unable to get last user input time: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.79" (uid=1000 pid=2866 comm="telegram-desktop -- " label="snap.telegram-desktop.telegram-desktop (enforce)") interface="org.freedesktop.ScreenSaver" member="GetSessionIdleTime" error name="(unset)" requested_reply="0" destination="org.freedesktop.ScreenSaver" (uid=1000 pid=1446 comm="/usr/lib/gnome-settings-daemon/gsd-screensaver-pro" label="unconfined")
+[2020.04.24 13:07:39] TCP Error: network - Network unreachable
+[2020.04.24 13:07:39] HTTP Error: network error 99 - Network unreachable
+[2020.04.24 13:07:40] RPC Error: request 24 got fail with code 400, error CHAT_ADMIN_REQUIRED
+[2020.04.24 13:07:43] TCP Error: network - Network unreachable
+[2020.04.24 13:07:43] HTTP Error: network error 99 - Network unreachable
+[2020.04.24 14:33:07] Switching to Qt tray icon...
+[2020.04.24 14:33:08] System tray is not available.
+[2020.04.24 14:41:22] TCP Error: network - Network unreachable
+[2020.04.24 14:41:22] HTTP Error: network error 99 - Network unreachable
+[2020.04.24 14:50:04] Switching to SNI tray icon...
+[2020.04.24 14:50:04] Using SNI tray icon.
+[2020.04.24 15:16:38] Switching to Qt tray icon...
+[2020.04.24 15:16:38] System tray is not available.
+[2020.04.24 15:44:30] TCP Error: network - Network unreachable
+[2020.04.24 15:44:30] HTTP Error: network error 99 - Network unreachable
+[2020.04.24 15:55:54] Audio Info: recreating audio device and reattaching the tracks
+[2020.04.24 15:55:56] Audio Info: Closing audio playback device.
+[2020.04.24 16:10:45] Switching to SNI tray icon...
+[2020.04.24 16:10:45] Using SNI tray icon.

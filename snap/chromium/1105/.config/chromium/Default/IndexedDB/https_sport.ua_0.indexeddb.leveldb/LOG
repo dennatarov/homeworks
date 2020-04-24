@@ -1,0 +1,15 @@
+2020/04/24-13:52:59.578 187b Reusing MANIFEST /home/zaratystra/snap/chromium/1105/.config/chromium/Default/IndexedDB/https_sport.ua_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/24-13:52:59.578 187b Recovering log #4
+2020/04/24-13:52:59.578 187b Reusing old log /home/zaratystra/snap/chromium/1105/.config/chromium/Default/IndexedDB/https_sport.ua_0.indexeddb.leveldb/000004.log 
+2020/04/24-13:54:01.835 18ce Level-0 table #8: started
+2020/04/24-13:54:01.838 18ce Level-0 table #8: 488 bytes OK
+2020/04/24-13:54:01.839 18ce Delete type=0 #4
+2020/04/24-13:54:01.839 18ce Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/04/24-13:54:01.840 18ce Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0c\x00P\x00r\x00o\x00m\x00p\x00t\x00C\x00l\x00o\x00s\x00e\x00d' @ 86 : 1
+2020/04/24-13:54:01.840 18ce Compacting 1@1 + 1@2 files
+2020/04/24-13:54:01.841 18ce Generated table #9@1: 24 keys, 722 bytes
+2020/04/24-13:54:01.841 18ce Compacted 1@1 + 1@2 files => 722 bytes
+2020/04/24-13:54:01.842 18ce compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/04/24-13:54:01.842 18ce Delete type=2 #8
+2020/04/24-13:54:01.842 18ce Delete type=2 #5
+2020/04/24-13:54:01.843 18ce Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0c\x00P\x00r\x00o\x00m\x00p\x00t\x00C\x00l\x00o\x00s\x00e\x00d' @ 86 : 1 .. (end); will stop at (end)

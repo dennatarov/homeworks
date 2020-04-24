@@ -1,0 +1,5 @@
+2020/04/23-13:22:31.203 186b Reusing MANIFEST /home/zaratystra/snap/chromium/1105/.config/chromium/Default/IndexedDB/https_losst.ru_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/23-13:25:58.899 186d Level-0 table #5: started
+2020/04/23-13:25:58.911 186d Level-0 table #5: 5906 bytes OK
+2020/04/23-13:25:58.913 186d Delete type=0 #3
+2020/04/23-13:25:58.914 186d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

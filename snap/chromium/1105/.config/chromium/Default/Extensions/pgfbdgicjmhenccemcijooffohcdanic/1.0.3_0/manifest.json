@@ -1,0 +1,32 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "content.js" ],
+      "matches": [ "http://*/*", "https://*/*", "file://*/*" ]
+   } ],
+   "default_locale": "uk",
+   "description": "__MSG_appDesc__",
+   "externally_connectable": {
+      "matches": [ "*://localhost/*", "*://*.ceb.loc/*", "*://*.p24.ua/*", "*://*.pb.ua/*", "*://*.pb.com.ua/*", "*://*.privat24.ua/*", "*://*.privatbank.ua/*", "*://*.biprocessing.org.ua/*", "*://*.igov.org.ua/*", "*://*.bankid.org.ua/*" ]
+   },
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "24": "icon24.png",
+      "256": "icon256.png",
+      "32": "icon32.png",
+      "48": "icon48.png",
+      "512": "icon512.png",
+      "64": "icon64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjJ9pQli0RIaC/8go4zbK9y6ifwt7clwFkCPidefSz0dpb/9NhNoy70yTqqYulUdggzjNgC7tNedyF2Hu10CIiJ/T2TuSiD91xqsrQa/DFFLIiY0Y282uIl/L+GXoVLymVW7leQLqEo8p5kqVrrMwEukavcn8cuxfnI6WVgVYKj/SsQn0/NSkMGxx5+LZnheUc1SA6V6Zp9dC8wM1WeF5Fin84i73CDEG15CEN+yKGTJJjKY34AvODXQfZ+TtEZjqYJuENppm6F+ZxlKq9BrgytQgjvZjW7zgkFGBjzQ0glW007Vy/SqgaNGrJvgrNNUy86gAI6l6wzGbTCX4KzxQvQIDAQAB",
+   "manifest_version": 2,
+   "name": "BankID CryptoPlugin",
+   "permissions": [ "tabs", "nativeMessaging" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.3",
+   "web_accessible_resources": [ "manifest.json" ]
+}

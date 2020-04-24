@@ -1,0 +1,5 @@
+2020/04/23-13:08:59.832 165e Reusing MANIFEST /home/zaratystra/snap/chromium/1105/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/23-13:19:14.218 186d Level-0 table #5: started
+2020/04/23-13:19:14.221 186d Level-0 table #5: 6216 bytes OK
+2020/04/23-13:19:14.223 186d Delete type=0 #3
+2020/04/23-13:19:14.223 186d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

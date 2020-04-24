@@ -1,0 +1,15 @@
+2020/04/22-15:27:28.232 c9d Reusing MANIFEST /home/zaratystra/snap/chromium/1105/.config/chromium/Default/IndexedDB/https_omgubuntu.ru_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/22-15:27:28.232 c9d Recovering log #4
+2020/04/22-15:27:28.232 c9d Reusing old log /home/zaratystra/snap/chromium/1105/.config/chromium/Default/IndexedDB/https_omgubuntu.ru_0.indexeddb.leveldb/000004.log 
+2020/04/22-15:28:10.445 cf6 Level-0 table #8: started
+2020/04/22-15:28:10.450 cf6 Level-0 table #8: 16349 bytes OK
+2020/04/22-15:28:10.452 cf6 Delete type=0 #4
+2020/04/22-15:28:10.452 cf6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/04/22-15:28:10.452 cf6 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x1f\x03\x000\xcc\xb7\x1d\x1awB\x00\x01T\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00o\x00m\x00g\x00u\x00b\x00u\x00n\x00t\x00u\x00.\x00r\x00u\x00/\x00a\x00s\x00s\x00e\x00t\x00s\x00/\x00b\x00u\x00i\x00l\x00t\x00/\x00c\x00a\x00s\x00p\x00e\x00r\x00.\x00j\x00s\x00,\x00q\x00v\x00=\x00c\x001\x009\x00e\x004\x00a\x00a\x00d\x00d\x007\x00.\x00p\x00a\x00g\x00e\x00s\x00p\x00e\x00e\x00d\x00.\x00j\x00m\x00.\x00u\x00b\x002\x00e\x00I\x00Q\x00E\x000\x00k\x00k\x00.\x00j\x00s' @ 235 : 1
+2020/04/22-15:28:10.452 cf6 Compacting 1@1 + 1@2 files
+2020/04/22-15:28:10.455 cf6 Generated table #9@1: 115 keys, 11421 bytes
+2020/04/22-15:28:10.455 cf6 Compacted 1@1 + 1@2 files => 11421 bytes
+2020/04/22-15:28:10.456 cf6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/04/22-15:28:10.456 cf6 Delete type=2 #8
+2020/04/22-15:28:10.456 cf6 Delete type=2 #5
+2020/04/22-15:28:10.456 cf6 Manual compaction at level-1 from '\x00\x03\x01\x1f\x03\x000\xcc\xb7\x1d\x1awB\x00\x01T\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00o\x00m\x00g\x00u\x00b\x00u\x00n\x00t\x00u\x00.\x00r\x00u\x00/\x00a\x00s\x00s\x00e\x00t\x00s\x00/\x00b\x00u\x00i\x00l\x00t\x00/\x00c\x00a\x00s\x00p\x00e\x00r\x00.\x00j\x00s\x00,\x00q\x00v\x00=\x00c\x001\x009\x00e\x004\x00a\x00a\x00d\x00d\x007\x00.\x00p\x00a\x00g\x00e\x00s\x00p\x00e\x00e\x00d\x00.\x00j\x00m\x00.\x00u\x00b\x002\x00e\x00I\x00Q\x00E\x000\x00k\x00k\x00.\x00j\x00s' @ 235 : 1 .. (end); will stop at (end)
