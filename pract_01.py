@@ -1,7 +1,8 @@
 # 1) Get a string from a given string where all occurrences of its
 # first char have been changed to '$', except the first char itself.
 
-f_word = "rar123"
+print("Input string")
+f_word = input()
 f_symb = f_word[0]
 f_word = f_symb + f_word[1:].replace(f_symb, "$")
 
